@@ -1,0 +1,27 @@
+.head h1 { 
+  color: #1100ff; 
+  font-family: 'Trocchi', 
+  serif; font-size: 45px; 
+  font-weight: normal; 
+  line-height: 48px; 
+  margin: center;
+  text-align: center;
+}
+.page p{
+  background-color: antiquewhite;
+  color: #0400ff; 
+  font-family: 'Source Sans Pro', sans-serif; 
+  font-size: 18px; 
+  line-height: 32px; 
+  margin: 0 0 24px;
+
+ }
+ .body{
+   background-color: antiquewhite;
+   border: 10px solid #4c4a37;
+   margin: center;
+   padding: 4%;
+ }
+ h2{
+   color: blueviolet;
+ }
